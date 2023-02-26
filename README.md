@@ -1,0 +1,2 @@
+# competitors
+competitors.gaiann.com
