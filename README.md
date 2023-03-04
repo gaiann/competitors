@@ -1,4 +1,4 @@
-# competitors.gaiann.com
+# [competitors.gaiann.com](http://competitors.gaiann.com)
 
 
 
