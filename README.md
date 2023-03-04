@@ -76,3 +76,19 @@ Link: https://otter.ai/
 
 25. Inkforall: AI content (Generation, Optimization, Performance)
 Link: https://inkforall.com/
+
+
+   
+Notatki ze spotkań ➡[Fireflies.ai](http://Fireflies.ai)  
+
+Tworzenie grafiki ➡[Midjourney.com](http://Midjourney.com)  
+
+Prezentacje ➡[SlidesAI.io](http://SlidesAI.io)  
+
+Asystent e-mail ➡[Tryellie.com](http://Tryellie.com)  
+
+Asystent pisania ➡[Wordtune.com](http://Wordtune.com)
+
+
+---
++ [edit](https://github.com/gaiann/competitors/edit/main/README.md)
