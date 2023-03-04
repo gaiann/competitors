@@ -65,16 +65,13 @@ Link: https://looka.com/
 21. theresanaiforthat: Comprehensive database of AIs available for every task
 Link: https://lnkd.in/dKhqaaF3
 
-22. Synthesia: Create AI videos by simply typing in text.
-Link: https://www.synthesia.io/
+[Synthesia: Create AI videos by simply typing in text](https://www.synthesia.io/)
 
-23. descript: New way to make video and podcasts
-Link: https://lnkd.in/d_Kdj35E
+[Descript: New way to make video and podcasts](https://www.descript.com/)
 
-24. Otter: Capture and share insights from your meetings
-Link: https://otter.ai/
+[Otter: Capture and share insights from your meetings](https://otter.ai/)
 
-Inkforall: AI content (Generation, Optimization, Performance) [https://inkforall.com/]
+[Inkforall: AI content (Generation, Optimization, Performance](https://inkforall.com/)
 
 
    
