@@ -54,15 +54,15 @@
 
 
    
-[Fireflies - Notatki ze spotkań](http://Fireflies.ai)  
+[Fireflies: Notatki ze spotkań](http://Fireflies.ai)  
 
-[Midjourney - Tworzenie grafiki ](http://Midjourney.com)  
+[Midjourney: Tworzenie grafiki ](http://Midjourney.com)  
 
-[SlidesAI - Prezentacje ](http://SlidesAI.io)  
+[SlidesAI: Prezentacje ](http://SlidesAI.io)  
 
-[Tryellie - Asystent e-mail ](http://Tryellie.com)  
+[Tryellie: Asystent e-mail ](http://Tryellie.com)  
 
-[Wordtune - Asystent pisania](http://Wordtune.com)
+[Wordtune: Asystent pisania](http://Wordtune.com)
 
 
 ---
