@@ -74,8 +74,7 @@ Link: https://lnkd.in/d_Kdj35E
 24. Otter: Capture and share insights from your meetings
 Link: https://otter.ai/
 
-25. Inkforall: AI content (Generation, Optimization, Performance)
-Link: https://inkforall.com/
+Inkforall: AI content (Generation, Optimization, Performance) [https://inkforall.com/]
 
 
    
