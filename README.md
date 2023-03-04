@@ -75,15 +75,15 @@ Link: https://lnkd.in/dKhqaaF3
 
 
    
-Notatki ze spotkań ➡[Fireflies.ai](http://Fireflies.ai)  
+[Fireflies - Notatki ze spotkań](http://Fireflies.ai)  
 
-Tworzenie grafiki ➡[Midjourney.com](http://Midjourney.com)  
+[Midjourney - Tworzenie grafiki ](http://Midjourney.com)  
 
-Prezentacje ➡[SlidesAI.io](http://SlidesAI.io)  
+[SlidesAI - Prezentacje ](http://SlidesAI.io)  
 
-Asystent e-mail ➡[Tryellie.com](http://Tryellie.com)  
+[Tryellie - Asystent e-mail ](http://Tryellie.com)  
 
-Asystent pisania ➡[Wordtune.com](http://Wordtune.com)
+[Wordtune - Asystent pisania](http://Wordtune.com)
 
 
 ---
